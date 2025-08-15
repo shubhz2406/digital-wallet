@@ -1,2 +1,2 @@
 - Try logging in using phone - 1111111111 , password - alice (See `seed.ts`)# digital-wallet
-# digital-wallet
+
